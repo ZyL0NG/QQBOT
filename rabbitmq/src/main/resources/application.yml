@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 108.174.60.150
+    port: 5672
+    virtual-host: /
+    username: hxyy
+    password: 032839
